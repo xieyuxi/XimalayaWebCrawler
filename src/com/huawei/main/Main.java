@@ -10,6 +10,14 @@ import com.huawei.util.Constants;
 import com.huawei.util.JDBCUtil;
 import com.huawei.util.StringUtil;
 
+/**
+ * 
+ * @ClassName:  Main   
+ * @Description:  TODO(正常执行插入) 
+ * @author: XIE.YUXI 
+ * @date:   2021年12月30日 下午6:03:55   
+ *
+ */
 public class Main {
     
     // 插入数据库语句
